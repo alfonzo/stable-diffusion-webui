@@ -21,7 +21,6 @@ __pycache__
 /params.txt
 /styles.csv.bak
 /webui-user.bat
-/webui-user.sh
 /interrogate
 /user.css
 /.idea
@@ -32,5 +31,7 @@ notification.mp3
 /extensions
 /test/stdout.txt
 /test/stderr.txt
-/cache.json*
-/config_states/
+/cache.json
+/venv-torch-nightly
+/Poses
+/models
